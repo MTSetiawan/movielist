@@ -5,9 +5,9 @@ Ini adalah repository untuk **Movie App**, aplikasi film yang dibuat dengan **La
 ## 🚀 Fitur Utama
 
 ### Backend (Laravel):
--Mencari film
--Simpan favorit film
--Comment
--Like
--Auth
+-Mencari film                                                                                                                                                                                                       
+-Simpan favorit film                                                                                                                                                                                                
+-Comment                                                                                                                                                                                                            
+-Like                                                                                                                                                                                                               
+-Auth                                                                                                                                                                                                              
 
